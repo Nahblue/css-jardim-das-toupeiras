@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado usando conceitos de grid, keyframes e animações
 
-- [Visite o projeto online](nahblue.github.io/jardim-das-toupeiras/)
+- [Visite o projeto online](https://nahblue.github.io/jardim-das-toupeiras/)
 
 ## :memo: Licença
 

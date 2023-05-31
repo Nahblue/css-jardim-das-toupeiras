@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  height: 1024px;
+  display: flex;
+  justify-content: center;
+
+  position: relative;
+}
+
+.bg-container {
+  object-fit: cover;
+}
+
+.hole-wrapper {
+  position: absolute;
+  margin: 224px auto 0;
+
+  display: grid;
+  gap: 54px;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.hole {
+  background-image: url(assets/toupeira6.svg);
+}
+
+#hole-mole1 {
+  animation: moleMove .5s 2s;
+}
+
+#hole-mole2 {
+  animation: moleMove .5s 4s;
+}
+
+#hole-mole3 {
+  animation: moleMove .5s 6s;
+}
+
+#hole-mole4 {
+  animation: moleMove .5s 8s;
+}
+
+#hole-mole5 {
+  animation: moleMove .5s 10s;
+}
+
+@keyframes moleMove {
+  0% {
+    background-image: url(assets/toupeira1.svg);
+  }
+
+  25% {
+    background-image: url(assets/toupeira2.svg);
+  }
+
+  50% {
+    background-image: url(assets/toupeira3.svg);
+  }
+
+  75% {
+    background-image: url(assets/toupeira4.svg);
+  }
+
+  100% {
+    background-image: url(assets/toupeira5.svg);
+  }
+}

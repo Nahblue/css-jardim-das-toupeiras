@@ -17,7 +17,7 @@ Projeto de um mini game de acertar as toupeiras.<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto jardim das topeiras" src="" width="80%">
+  <img alt="projeto jardim das topeiras" src="blob:https://imgur.com/ddfc89c8-2b22-465f-8177-009662410f80" width="80%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto foi criado usando conceitos de grid, keyframes e animações
 
-- [Visite o projeto online]()
+- [Visite o projeto online](nahblue.github.io/jardim-das-toupeiras/)
 
 ## :memo: Licença
 

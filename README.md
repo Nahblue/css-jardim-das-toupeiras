@@ -1,13 +1,9 @@
-<h1 align="center"> Jardim das Toupeiras </h1>
+<h1 align="center"> Mole Garden </h1>
 
 <p align="center">
-Projeto de um mini game de acertar as toupeiras.<br/>
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
@@ -17,27 +13,27 @@ Projeto de um mini game de acertar as toupeiras.<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto jardim das topeiras" src="https://i.imgur.com/ega8KJ2.png" width="80%">
+  <img alt="mole gardem" src="https://i.imgur.com/ega8KJ2.png" width="80%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was produced using the following technologies:
 
-- HTML e CSS
-- Git e Github
+- HTML and CSS
+- Git and Github
 - Figma
 
-## 💻 Projeto
+## 💻 Project
 
-O projeto foi criado usando conceitos de grid, keyframes e animações
+The project was made using animations and grid layout, it simulates a game where a player needs to hit the mole
 
-- [Visite o projeto online](https://nahblue.github.io/jardim-das-toupeiras/)
+- [Visit the project online](https://nahblue.github.io/jardim-das-toupeiras/)
 
-## :memo: Licença
+## :memo: License
 
-Esse projeto está sob a licença MIT.
+This project is under the MIT license.
 
 ---
 
-Feito com ♥ by Nahblue 😋
+Made with ♥ by Nahblue 😋
